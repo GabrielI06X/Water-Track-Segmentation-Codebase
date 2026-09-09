@@ -53,3 +53,5 @@ Retile_Missing_Data_Filter: Used for some runs; filters out missing data generat
 -----------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------
+
+Note: I do not have a script for tiling the large base raster, as I do that in QGIS; may be a script to write to better automate in the future for larger scale tasks.
